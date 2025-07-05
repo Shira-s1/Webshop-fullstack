@@ -1,4 +1,3 @@
-
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
  import CouponList from './components/CouponList'
  import CustomerList from './components/CustomerList'
